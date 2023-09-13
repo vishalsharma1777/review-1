@@ -1,4 +1,4 @@
-# congigure .husky
+# configure .husky
 
 run the following to enable pre-commit hook.
 
